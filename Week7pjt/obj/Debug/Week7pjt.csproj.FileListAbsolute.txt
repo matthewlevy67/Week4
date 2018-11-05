@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\bin\Debug\Week7pjt.exe.config
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\bin\Debug\Week7pjt.exe
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\bin\Debug\Week7pjt.pdb
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.TempConverter.resources
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.Properties.Resources.resources
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.exe
+C:\Users\matth\source\repos\Week7pjt\Week7pjt\obj\Debug\Week7pjt.pdb
